@@ -1,0 +1,1 @@
+# log4j-kinesis-endpoint-demo
